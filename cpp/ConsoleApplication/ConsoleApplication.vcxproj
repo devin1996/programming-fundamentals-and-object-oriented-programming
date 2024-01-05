@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication.cpp" />
     <ClCompile Include="HelloThere.cpp" />
+    <ClCompile Include="Variables.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

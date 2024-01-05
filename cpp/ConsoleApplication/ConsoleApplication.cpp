@@ -3,12 +3,16 @@
 
 #include <iostream>
 #include "HelloThere.cpp"
+#include "Variables.cpp"
 
 int main()
 {
     std::cout << "Hello World!\n";
     HelloThere helloThereObj;
     helloThereObj.HelloWorld();
+
+    Variables variableObj;
+    variableObj.managePets();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
