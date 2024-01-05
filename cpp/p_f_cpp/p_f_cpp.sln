@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p_f_cpp", "p_f_cpp.vcxproj", "{972E97D0-3682-4C3E-8D59-2CFF44374158}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication", "..\ConsoleApplication\ConsoleApplication.vcxproj", "{8FAB758B-DC4B-40E4-B682-5D5332F7780B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{972E97D0-3682-4C3E-8D59-2CFF44374158}.Release|x64.Build.0 = Release|x64
 		{972E97D0-3682-4C3E-8D59-2CFF44374158}.Release|x86.ActiveCfg = Release|Win32
 		{972E97D0-3682-4C3E-8D59-2CFF44374158}.Release|x86.Build.0 = Release|Win32
+		{8FAB758B-DC4B-40E4-B682-5D5332F7780B}.Debug|x64.ActiveCfg = Debug|x64
+		{8FAB758B-DC4B-40E4-B682-5D5332F7780B}.Debug|x64.Build.0 = Debug|x64
+		{8FAB758B-DC4B-40E4-B682-5D5332F7780B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8FAB758B-DC4B-40E4-B682-5D5332F7780B}.Debug|x86.Build.0 = Debug|Win32
+		{8FAB758B-DC4B-40E4-B682-5D5332F7780B}.Release|x64.ActiveCfg = Release|x64
+		{8FAB758B-DC4B-40E4-B682-5D5332F7780B}.Release|x64.Build.0 = Release|x64
+		{8FAB758B-DC4B-40E4-B682-5D5332F7780B}.Release|x86.ActiveCfg = Release|Win32
+		{8FAB758B-DC4B-40E4-B682-5D5332F7780B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
