@@ -21,10 +21,22 @@
     <ClCompile Include="ConsoleApplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="HelloThere.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Variables.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="Strings.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInput.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="IntegerTypes.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloThere.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="FloatingPointTypes.cpp">
       <Filter>Source Files\basicSyntax</Filter>
     </ClCompile>
   </ItemGroup>
