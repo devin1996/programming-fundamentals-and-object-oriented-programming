@@ -39,5 +39,8 @@
     <ClCompile Include="FloatingPointTypes.cpp">
       <Filter>Source Files\basicSyntax</Filter>
     </ClCompile>
+    <ClCompile Include="OtherTypes.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

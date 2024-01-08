@@ -131,6 +131,7 @@
     <ClCompile Include="FloatingPointTypes.cpp" />
     <ClCompile Include="HelloThere.cpp" />
     <ClCompile Include="IntegerTypes.cpp" />
+    <ClCompile Include="OtherTypes.cpp" />
     <ClCompile Include="Strings.cpp" />
     <ClCompile Include="UserInput.cpp" />
     <ClCompile Include="Variables.cpp" />
