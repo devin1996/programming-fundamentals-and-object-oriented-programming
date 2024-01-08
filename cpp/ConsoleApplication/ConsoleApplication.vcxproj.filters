@@ -42,5 +42,14 @@
     <ClCompile Include="OtherTypes.cpp">
       <Filter>Source Files\basicSyntax</Filter>
     </ClCompile>
+    <ClCompile Include="IFCondition.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="IFElseCondition.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseIfElseCondition.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

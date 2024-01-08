@@ -130,6 +130,9 @@
     <ClCompile Include="ConsoleApplication.cpp" />
     <ClCompile Include="FloatingPointTypes.cpp" />
     <ClCompile Include="HelloThere.cpp" />
+    <ClCompile Include="IFCondition.cpp" />
+    <ClCompile Include="IFElseCondition.cpp" />
+    <ClCompile Include="IfElseIfElseCondition.cpp" />
     <ClCompile Include="IntegerTypes.cpp" />
     <ClCompile Include="OtherTypes.cpp" />
     <ClCompile Include="Strings.cpp" />
