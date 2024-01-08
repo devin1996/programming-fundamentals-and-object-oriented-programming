@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ComplexConditions.cpp" />
     <ClCompile Include="ConsoleApplication.cpp" />
     <ClCompile Include="FloatingPointTypes.cpp" />
     <ClCompile Include="HelloThere.cpp" />
