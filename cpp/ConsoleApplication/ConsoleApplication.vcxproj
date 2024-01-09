@@ -139,6 +139,7 @@
     <ClCompile Include="Strings.cpp" />
     <ClCompile Include="UserInput.cpp" />
     <ClCompile Include="Variables.cpp" />
+    <ClCompile Include="Loops.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
