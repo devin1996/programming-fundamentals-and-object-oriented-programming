@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Arrays.cpp" />
+    <ClCompile Include="BreakAndContinue.cpp" />
     <ClCompile Include="ComplexConditions.cpp" />
     <ClCompile Include="ConsoleApplication.cpp" />
     <ClCompile Include="FloatingPointTypes.cpp" />
@@ -137,6 +139,7 @@
     <ClCompile Include="IntegerTypes.cpp" />
     <ClCompile Include="OtherTypes.cpp" />
     <ClCompile Include="Strings.cpp" />
+    <ClCompile Include="SwitchCase.cpp" />
     <ClCompile Include="UserInput.cpp" />
     <ClCompile Include="Variables.cpp" />
     <ClCompile Include="Loops.cpp" />

@@ -16,6 +16,9 @@
     <Filter Include="Source Files\basicSyntax">
       <UniqueIdentifier>{d7a62277-76fa-4941-adc9-2d94c8634546}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\subroutines">
+      <UniqueIdentifier>{e4ed2803-9380-40c0-a8c7-85eeb621a04c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication.cpp">
@@ -55,6 +58,15 @@
       <Filter>Source Files\basicSyntax</Filter>
     </ClCompile>
     <ClCompile Include="Loops.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakAndContinue.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrays.cpp">
+      <Filter>Source Files\basicSyntax</Filter>
+    </ClCompile>
+    <ClCompile Include="SwitchCase.cpp">
       <Filter>Source Files\basicSyntax</Filter>
     </ClCompile>
   </ItemGroup>
