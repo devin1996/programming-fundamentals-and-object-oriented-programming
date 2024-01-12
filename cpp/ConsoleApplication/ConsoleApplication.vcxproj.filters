@@ -69,5 +69,22 @@
     <ClCompile Include="SwitchCase.cpp">
       <Filter>Source Files\basicSyntax</Filter>
     </ClCompile>
+    <ClCompile Include="functions.cpp">
+      <Filter>Source Files\subroutines</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnValues.cpp">
+      <Filter>Source Files\subroutines</Filter>
+    </ClCompile>
+    <ClCompile Include="ParameterizedFunctions.cpp">
+      <Filter>Source Files\subroutines</Filter>
+    </ClCompile>
+    <ClCompile Include="PrototypesAndIncludes.cpp">
+      <Filter>Source Files\subroutines</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
