@@ -19,6 +19,12 @@
     <Filter Include="Source Files\subroutines">
       <UniqueIdentifier>{e4ed2803-9380-40c0-a8c7-85eeb621a04c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\oop">
+      <UniqueIdentifier>{3201d638-ed50-4e2e-8217-fcecaaaa85a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\oop">
+      <UniqueIdentifier>{5be307dc-71a7-48ee-aaf4-b12eb2370fbd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication.cpp">
@@ -81,10 +87,16 @@
     <ClCompile Include="PrototypesAndIncludes.cpp">
       <Filter>Source Files\subroutines</Filter>
     </ClCompile>
+    <ClCompile Include="Cat.cpp">
+      <Filter>Source Files\oop</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="utils.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cat.h">
+      <Filter>Header Files\oop</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

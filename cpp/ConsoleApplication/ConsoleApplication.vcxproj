@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Arrays.cpp" />
     <ClCompile Include="BreakAndContinue.cpp" />
+    <ClCompile Include="Cat.cpp" />
     <ClCompile Include="ComplexConditions.cpp" />
     <ClCompile Include="ConsoleApplication.cpp" />
     <ClCompile Include="FloatingPointTypes.cpp" />
@@ -149,6 +150,7 @@
     <ClCompile Include="Loops.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cat.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
