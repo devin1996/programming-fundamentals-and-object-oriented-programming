@@ -4,8 +4,22 @@
 
 using namespace std;
 
+void Cat::makeHappy() {
+	happy = true;
+}
+
+void Cat::makeSad()
+{
+	happy = false;
+}
+
 void Cat::speak() {
-	cout << "Meouww!!!" << endl;
+	if (happy) {
+		cout << "Meouww!!!" << endl;
+	}
+	else {
+		cout << "Ssssss!!!" << endl;
+	}
 }
 
 void Cat::jump() {

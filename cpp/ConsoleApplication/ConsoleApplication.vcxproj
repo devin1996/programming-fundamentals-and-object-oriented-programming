@@ -139,6 +139,7 @@
     <ClCompile Include="IFElseCondition.cpp" />
     <ClCompile Include="IfElseIfElseCondition.cpp" />
     <ClCompile Include="IntegerTypes.cpp" />
+    <ClCompile Include="Kitty.cpp" />
     <ClCompile Include="OtherTypes.cpp" />
     <ClCompile Include="ParameterizedFunctions.cpp" />
     <ClCompile Include="PrototypesAndIncludes.cpp" />
@@ -151,6 +152,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cat.h" />
+    <ClInclude Include="Kitty.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

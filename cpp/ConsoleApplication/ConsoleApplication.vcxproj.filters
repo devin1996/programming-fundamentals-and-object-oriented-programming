@@ -90,12 +90,18 @@
     <ClCompile Include="Cat.cpp">
       <Filter>Source Files\oop</Filter>
     </ClCompile>
+    <ClCompile Include="Kitty.cpp">
+      <Filter>Source Files\oop</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Cat.h">
+      <Filter>Header Files\oop</Filter>
+    </ClInclude>
+    <ClInclude Include="Kitty.h">
       <Filter>Header Files\oop</Filter>
     </ClInclude>
   </ItemGroup>
