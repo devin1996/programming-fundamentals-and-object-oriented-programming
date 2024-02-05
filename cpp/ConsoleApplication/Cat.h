@@ -7,6 +7,8 @@ class Cat {
 private:
 	bool happy;
 public:
+	Cat();
+	~Cat(); // Destructor
 	void makeHappy();
 	void makeSad();
 	void speak();

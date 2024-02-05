@@ -11,18 +11,20 @@
 
 int main()
 {
-    //speak();
-    //jump();
-    Cat tom;
-    tom.makeHappy();
-    tom.speak();
-    tom.jump();
-    
-    Cat bob;
-    tom.makeSad();
-    tom.speak();
-    tom.jump();
+    cout << "Starting Program..." << endl;
+    {
+        Cat tom;
+        tom.makeHappy();
+        tom.speak();
+        tom.jump();
+    }
 
+    {
+        Cat bob;
+        bob.makeSad();
+        bob.speak();
+        bob.jump();
+    }
     std::cout << "Hello World!\n";
     HelloThere helloThereObj;
     helloThereObj.HelloWorld();
@@ -30,5 +32,5 @@ int main()
     Variables variableObj;
     variableObj.managePets();
 
-
+    cout << "Ending Program..." << endl;
 }
