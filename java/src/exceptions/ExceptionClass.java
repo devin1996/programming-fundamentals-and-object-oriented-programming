@@ -5,6 +5,8 @@
  */
 package exceptions;
 
+import java.util.Arrays;
+
 /**
  *
  * @author devin
@@ -14,7 +16,7 @@ public class ExceptionClass {
     public static void main(String[] args) throws ArithmeticException {
         try {
             int[] myNumbers = {1, 2, 3};
-            System.out.println(myNumbers);
+            System.out.println(Arrays.toString(myNumbers));
         } catch (Exception e) {
             System.out.println("Something went wrong");
         } finally {
